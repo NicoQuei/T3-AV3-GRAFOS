@@ -10,7 +10,7 @@
 - **Linguagem:** Java (OpenJDK 21)
 
 > **Integrantes:**
-> - Nícolas Queiroga
+> - Nícolas Queiroga — `github.com/nicoquei`
 > - Mauricio Oliveira
 > - João Lucas
 
@@ -164,5 +164,6 @@ só a comparação `fluxo == M` é exigida.
 
 ## 8. Evidência de Accepted
 
-Ver `evidencias/`. Após submeter em <https://onlinejudge.org/>, salve o
-comprovante como `evidencias/accepted.png` (ou `.pdf`).
+Submissão aceita no UVA Online Judge (problema 11045):
+
+![Accepted — UVA 11045](evidencias/accepted.png)
